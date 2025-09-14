@@ -1,4 +1,4 @@
-<h1># 🎮 Juego del Número Secreto
+ 🎮 Juego del Número Secreto
 
 Este es un juego divertido en el que debes adivinar un número secreto entre **1 y 10**.  
 Cada vez que intentes, el juego te dirá si el número secreto es **más alto** o **más bajo**.  
@@ -29,4 +29,4 @@ Cuando lo descubras, te mostrará cuántos intentos necesitaste. 🎉
 ---
 
 ## 👤 Autor
-Creado por **[Tu Nombre]** ✨  </h1>
+Creado por **[Yadir Cubillo]** ✨  
